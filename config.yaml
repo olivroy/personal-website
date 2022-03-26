@@ -1,7 +1,8 @@
-baseurl: https://example.com/
+baseurl: https://olivroy.netlify.app/
 title: console-demo
 theme: hugo-theme-console
 languageCode: en-us
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 params:
   animateStyle: animated zoomIn fast
   navlinks:
