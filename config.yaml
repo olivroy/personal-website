@@ -1,5 +1,5 @@
 baseurl: https://olivroy.netlify.app/
-title: console-demo
+title: Olivier Roy
 theme: hugo-theme-console
 languageCode: en-us
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]

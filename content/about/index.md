@@ -1,32 +1,28 @@
 ---
 date: "2016-11-05T21:05:33+05:30"
-title: About
+title: Olivier Roy
+education: 
+courses:
+- course: BSc. in Mathematics (Orientation Statistique)
+  year: 2019
 ---
 
-A minimal, responsive and light theme for Hugo inspired by Linux console. 
+I am a researcher currently working for [Employment and Social development Canada](https://www.canada.ca/en/employment-social-development.html).
 
-![Console](https://github.com/mrmierzejewski/hugo-theme-console/blob/master/images/preview.png?raw=true)
 
-## Installation
+# Technical Skills
 
-```
-$ mkdir themes
-$ cd themes
-$ git submodule add https://github.com/mrmierzejewski/hugo-theme-console.git hugo-theme-console
-```
-    
-See the [Hugo documentation](https://gohugo.io/themes/installing/) for more information.
+* Statistical analysis
+  + 
 
-## Configuration
+* Data Science
 
-Set theme parameter in your config file:
+* Programming
 
-```
-theme = "hugo-theme-console"
-```
+  + R package development
 
-## License
+* Geospatial analysis
 
-Copyright © 2020 [Marcin Mierzejewski](https://mrmierzejewski.com/)
+* Languages
 
-The theme is released under the MIT License. Check the [original theme license](https://github.com/panr/hugo-theme-terminal/blob/master/LICENSE.md) for additional licensing information.
+  + I have experience 
